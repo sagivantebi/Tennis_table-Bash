@@ -1,5 +1,5 @@
 #!/bin/bash
-#Sagiv Antebi 318159282
+#Sagiv Antebi
 
 printBoard(){
 	echo " Player 1: ${2}         Player 2: ${3} "
