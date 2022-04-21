@@ -7,3 +7,7 @@ LINUX:
 
 Windows:
 Make sure you have a software that can run the bash file
+
+Game Rules: figure it out yourself, you are a big boy
+
+![tennisPic](https://user-images.githubusercontent.com/84729141/164441395-2bfd9d09-97a9-4b72-a103-af9e075790c4.png)
